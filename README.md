@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WeronikaSeargin
-- ✨ I’m currently looking for .NET Developer
+- ✨ I’m currently looking for Java Developer with Android/B2B/Remote
 - 📫 How to reach me: weronika.szymanska@seargin.com
 
 Matching IT experts with top projects in pharmacy, robotics, fintech, and other sectors.
