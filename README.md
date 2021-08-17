@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WeronikaSeargin
-- ✨ I’m currently looking for Java Developer with Android/B2B/Remote
+- ✨ I’m currently looking for Frontend Developer/remote/B2B
 - 📫 How to reach me: weronika.szymanska@seargin.com
 
 Matching IT experts with top projects in pharmacy, robotics, fintech, and other sectors.
